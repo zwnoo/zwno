@@ -30,6 +30,6 @@ class developing:
     self.website = http://zwno.is-great.net # did this in 1 day :)
   return bye :)
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OxynDev&theme=tokyonight&show_icons=true&card_width=1100"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zwnoo&theme=tokyonight&show_icons=true&card_width=1100"> </p>
 
 ![image2](https://raw.githubusercontent.com/OxynDev/OxynDev/main/wave.png)
