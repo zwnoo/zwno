@@ -13,8 +13,7 @@ def about_me(self):
 
 def achievements(self):
   achievements = [
-    'kick.com gen',
-    'instagram gen' # still making
+    'Kick AIO'
   ]
 
 class developing:
